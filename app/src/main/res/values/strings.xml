@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Toggle</string>
+    <string name="widget_label">USB debug</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="permission_missing">Missing permission. Run: adb shell pm grant dev.xavier.adbtoggle android.permission.WRITE_SECURE_SETTINGS</string>
+</resources>
